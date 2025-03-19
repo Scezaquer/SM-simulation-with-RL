@@ -55,6 +55,8 @@ In summary, this paper presents a novel framework that combines ABM, LLMs, and R
 
 ### **What we could do**
 
+Use RL to incentivize getting more followers. Maybe add “influencer” agents whose goal is specifically to increase their following?
+
 ## Human-level play in the game of Diplomacy by combining language models with strategic reasoning
 
 ![Human-level play in the game of Diplomacy by combining language models with strategic reasoning](img/Picture2.png)
