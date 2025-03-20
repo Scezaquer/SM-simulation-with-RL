@@ -175,10 +175,11 @@ In summary, this study reveals the potential for adversaries to leverage reinfor
 
 - Socialbots: Bots on social media trying to influence opinion by spreading misinformation
 - In practice these bots are hunted down by the social media platform. Adversarial behaviors emerge from this
+- Techniques in this paper make better malicious agents, more influential and much less detectable
 
 #### **What we could do**
 
-Use RL to replicate this adversarial phenomenon to get more realistic malicious agents in the sim.
+Use their approach to get stronger malicious agents in the sim.
 
 # Discussion
 
